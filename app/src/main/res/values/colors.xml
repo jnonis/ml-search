@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF059</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#DE000000</color>
+
+    <color name="header">#56000000</color>
+    <color name="item_text">#DE000000</color>
+    <color name="high_price">#FFFF0000</color>
+    <color name="item">#32000000</color>
+    <color name="item_odd">#00000000</color>
+    <color name="low_price">#FF00FF00</color>
+</resources>

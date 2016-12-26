@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ML Search</string>
+    <string name="empty">There is not payments</string>
+    <string name="query">Query</string>
+    <string name="search">Search</string>
+    <string name="button_ok">Ok</string>
+    <string name="product">Product</string>
+    <string name="price">Price</string>
+    <string name="error_invalid_query">You must enter a valid query.</string>
+    <string name="error_connection">There was a connection error.</string>
+    <string name="error_app">There was an application error.</string>
+    <string name="error_service">There was a server error.</string>
+</resources>
